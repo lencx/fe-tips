@@ -1,7 +1,7 @@
 # Safe Menu
 
+> 在线体验：https://lencx.github.io/fe-tips/#/safe-menu \
 > 本地路径：`http://localhost:6800/#/safe-menu`
-
 
 ## 背景
 
