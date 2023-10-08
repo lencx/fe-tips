@@ -18,4 +18,6 @@ yarn dev
 
 ## Tips
 
-- [Safe Menu](./docs/safe-menu/index.md)
+- Safe Menu
+  - [Blog](./docs/safe-menu/index.md)
+  - [Demo](https://lencx.github.io/fe-tips/#/safe-menu)
