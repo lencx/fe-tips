@@ -1,0 +1,10 @@
+li {
+  list-style: none;
+  background: #fff;
+  color: #2a2a2a;
+  width: 100px;
+  padding: 5px 10px;
+  margin: 2px 0;
+  border: solid 1px #999;
+  cursor: pointer;
+}
