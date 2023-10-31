@@ -12,7 +12,9 @@ export default function Home() {
         </ul>
         <h2 className="font-bold mt-2">Game</h2>
         <ul>
-          <li onClick={() => navigate('https://lencx.github.io/fe-tips/game/angry-pumpkins')}>🎃 Angry Pumpkins</li>
+          <li onClick={() => {
+            window.location.href = 'https://lencx.github.io/fe-tips/game/angry-pumpkins';
+          }}>🎃 Angry Pumpkins</li>
         </ul>
       </div>
     </div>
