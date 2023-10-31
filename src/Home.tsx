@@ -12,7 +12,7 @@ export default function Home() {
         </ul>
         <h2 className="font-bold mt-2">Game</h2>
         <ul>
-          <li onClick={() => navigate('/game/angry-pumpkins')}>Angry Pumpkins</li>
+          <li onClick={() => navigate('/game/angry-pumpkins')}>🎃 Angry Pumpkins</li>
         </ul>
       </div>
     </div>
