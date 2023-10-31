@@ -1,6 +1,7 @@
 import { useRoutes } from 'react-router-dom';
 
 import SafeMenu from './SafeMenu';
+import Home from './Home';
 
 export type RouteMetaObject = {
   icon?: React.ReactNode;
@@ -20,7 +21,7 @@ const routes: RouteObject[] = [
   },
   {
     path: '/',
-    element: <SafeMenu />,
+    element: <Home />,
   },
 ];
 
