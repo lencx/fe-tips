@@ -20,7 +20,8 @@ yarn dev
 
 - Safe Menu
   - [Blog](./docs/safe-menu/index.md)
-  - [Demo](https://lencx.github.io/fe-tips/#/safe-menu)
+  - [Live demo](https://lencx.github.io/fe-tips/#/safe-menu)
 
 - Game
   - [Angry Pumpkins](./game/angry-pumpkins)
+    - [Live demo](https://lencx.github.io/fe-tips/game/angry-pumpkins/)
