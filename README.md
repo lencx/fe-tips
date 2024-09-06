@@ -18,10 +18,12 @@ yarn dev
 
 ## Tips
 
-- Safe Menu
+- [Safe Menu](./src/SafeMenu/)
   - [Blog](./docs/safe-menu/index.md)
-  - [Live demo](https://lencx.github.io/fe-tips/#/safe-menu)
+  - [Live Demo](https://lencx.github.io/fe-tips/#/safe-menu)
+- [Password Confirmation](./src/PasswordConfirmation.tsx)
+  - [Live Demo](https://lencx.github.io/fe-tips/password-confirmation)
 
 - Game
   - [Angry Pumpkins](./game/angry-pumpkins)
-    - [Live demo](https://lencx.github.io/fe-tips/game/angry-pumpkins/)
+    - [Live Demo](https://lencx.github.io/fe-tips/game/angry-pumpkins)
