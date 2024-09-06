@@ -1,19 +1,8 @@
-import { useRoutes } from 'react-router-dom';
+import { useRoutes, RouteObject } from 'react-router-dom';
 
 import SafeMenu from './SafeMenu';
-import Home from './Home';
 import PasswordConfirmation from './PasswordConfirmation';
-
-export type RouteMetaObject = {
-  icon?: React.ReactNode;
-  title?: string;
-};
-
-type RouteObject = {
-  path: string;
-  element?: JSX.Element;
-  children?: RouteObject[];
-};
+import Home from './Home';
 
 const routes: RouteObject[] = [
   {
@@ -30,6 +19,6 @@ const routes: RouteObject[] = [
   },
 ];
 
-export default function Routes2() {
+export default function Routes() {
   return useRoutes(routes);
 }
